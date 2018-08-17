@@ -54,4 +54,4 @@ This file contains descriptions for the columns in the various data files.
 published EDA: https://www.kaggle.com/cryswen/first-complementary-eda
 
 ## Machine learning model
-current ROC-AUC: 0.774
+current ROC-AUC: 0.780
