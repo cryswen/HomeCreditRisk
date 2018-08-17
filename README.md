@@ -55,3 +55,7 @@ published EDA: https://www.kaggle.com/cryswen/first-complementary-eda
 
 ## Machine learning model
 current ROC-AUC: 0.780
+
+## Feature importance
+![alt text](https://github.com/cryswen/HomeCreditRisk/blob/master/lgbm_importances-01.png)
+
